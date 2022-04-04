@@ -33,9 +33,7 @@ const App = () => {
               Album layout
             </Typography>
             <Typography variant="h5" align="center" color="text.secondary" paragraph>
-              Something short and leading about the collection below—its contents,
-              the creator, etc. Make it short and sweet, but not too short so folks
-              dont simply skip over it entirely.
+              Understanding material-ui, just a basic implimentation into a react app
             </Typography>
             <div className={classes.buttons}>
               <Grid container spacing={2} justifyContent='center'>
